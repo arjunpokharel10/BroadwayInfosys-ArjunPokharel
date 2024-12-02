@@ -1,0 +1,20 @@
+3. Functions, Parameters, and Return Values
+Problem 8: Write a function that:
+
+Takes two numbers as arguments and returns their greatest common divisor (GCD).
+Problem 9: Create a function to check whether a number is a prime number.
+
+Problem 10: Write a function that takes a list of numbers and returns the largest and smallest numbers in the list.
+
+4. Basic String and List Manipulations
+Problem 11: Write a program to:
+
+Take a string as input and count the number of vowels and consonants in it.
+Problem 12: Reverse a given string without using any built-in methods.
+
+Problem 13: Write a program to:
+
+Take a list of numbers as input and calculate the sum and average of the numbers.
+Problem 14: Remove duplicates from a list while maintaining the original order.
+
+Problem 15: Write a program to find the second largest number in a list.
