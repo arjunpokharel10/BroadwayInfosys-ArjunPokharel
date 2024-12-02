@@ -9,6 +9,8 @@ text.append('wow')
 
 text.extend(['yes', 'it', 'is'])
 
+text = ' '.join(text)
+
 
 print(text)
 print(type(text))
